@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "RomanNumeralsKata-2025/1.0.0": {
+        "runtime": {
+          "RomanNumeralsKata-2025.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RomanNumeralsKata-2025/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
